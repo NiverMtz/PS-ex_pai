@@ -6,3 +6,5 @@ Además de un sitio web en desarrollo que se pretende seguir llevando a cabo com
 para implementar algunas otras tecnologías relacionadas.
 
 Link del sitio web: https://infinite-crag-13775.herokuapp.com/
+
+(https://github.com/NiverMtz/PS-ex_paijupyter notebooks/5.png)
